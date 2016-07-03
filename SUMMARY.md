@@ -1,4 +1,4 @@
 # Summary
 
-* C Tips
+* [C Tips](c_tips.md)
 
