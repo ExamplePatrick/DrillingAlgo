@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MaxAndMin.c">
+    <ClCompile Include="MaxAndMin00.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxAndMin01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxAndMin02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
